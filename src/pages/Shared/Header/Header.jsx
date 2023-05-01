@@ -8,4 +8,4 @@ const Header = () => {
     );
 };
 
-export default Header;<h2>this is header</h2>
+export default Header;
